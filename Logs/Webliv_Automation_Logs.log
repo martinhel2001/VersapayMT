@@ -1,0 +1,11 @@
+18-08-2021 20:53:21 INFO [BaseTest]: I am in onStart method VersapayMT
+18-08-2021 20:53:21 INFO [BaseTest]: # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+18-08-2021 20:53:21 INFO [BaseTest]: #supplierLoginOK# test is starting.
+18-08-2021 20:53:21 INFO [BaseTest]: Test Description: Let's verify if Supplier Login is working properly
+18-08-2021 20:53:29 INFO [BaseTest]: supplierLoginOK test is succeed.
+18-08-2021 20:53:29 INFO [BaseTest]: # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+18-08-2021 20:53:29 INFO [BaseTest]: #navigationTest# test is starting.
+18-08-2021 20:53:29 INFO [BaseTest]: Test Description: Let's validate all navigation options
+18-08-2021 20:53:37 INFO [BaseTest]: navigationTest test is succeed.
+18-08-2021 20:53:37 INFO [BaseTest]: # # # # # # # # # # # # # # # # # # # # # # # # # # # 
+18-08-2021 20:53:37 INFO [BaseTest]: I am in onFinish method VersapayMT
