@@ -1,6 +1,6 @@
 package UI_tests;
 
-import BaseTest.BaseTest_UI;
+import BaseTest.BaseTest_UI; // carga la clase base de métodos comunes de UI
 import org.testng.Assert;
 import org.testng.annotations.Test;
 import pages.ARC.ARC_DashboardPage;
